@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          MI PRIMERA PRUEBA JOHN PACHECO
         </a>
       </header>
     </div>
